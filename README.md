@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+skills set 
 
 <!---
-Reygie23/Reygie23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- Currently a Second year BSIT student. Aiming to be a passionate developer in the future.
+- Continue learning and enhancing skills with self study.
+- I love to explore and learn about new things.
 --->
