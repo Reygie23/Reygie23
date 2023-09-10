@@ -1,4 +1,4 @@
-![logo]([https://github.com/Reygie23/Reygie23/blob/main/DEVV23.png](https://github.com/Reygie23/Reygie23/blob/main/grid.png))
+![logo](https://github.com/Reygie23/Reygie23/blob/main/grid.png)
 <h1 align="center">Hi 👋, I'm ReygieDev23</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
