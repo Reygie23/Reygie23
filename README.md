@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://facebook.com/Jreg.Sc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/Jreg.Sc" height="30" width="40" /></a>
+<a href="https://facebook.com/61550739440742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/61550739440742" height="30" width="40" /></a>
 </p>
 
 <h3 align="left" style="color: #00ff00;">🛠️ Arsenal:</h3>
