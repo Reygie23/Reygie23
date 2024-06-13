@@ -13,7 +13,7 @@
 <h3 align="center" style="color: #00ff00;">~ Initializing Connection ~</h3>
 
 <h1 align="center">Hi 👋, I'm ReygieDev23</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A passionate developer from Philippines</h3>
 
 <img align="right" alt="Hacking" width="400" src="https://media1.tenor.com/images/4ad1e0f508217b7d3d96ad13b34407c0/tenor.gif">
 
